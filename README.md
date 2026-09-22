@@ -6,7 +6,7 @@
 <!-- 8-Bit Quest Slogan -->
 <p align="center">
   <a href="https://berakun.web.id">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&pause=1000&color=FF007F&center=true&vCenter=true&width=750&lines=CLASS%3A+FULL-STACK+DEV+%2B+AI+SPECIALIST;QUEST%3A+CRAFTING+HIGH-PERFORMANCE+SYSTEMS;EQUIPMENT%3A+LINUX+STB+%2B+DOCKER+%2B+VUE%2FREACT;PRESS+START+TO+EXPLORE+MY+UNIVERSE..." alt="8-Bit Typing Slogan" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&pause=1000&color=FF007F&center=true&vCenter=true&width=750&lines=CLASS%3A+FULL-STACK+DEV+%2B+AI+SPECIALIST;QUEST%3A+CRAFTING+HIGH-PERFORMANCE+SYSTEMS;EQUIPMENT%3A+LINUX+SERVER+%2B+DOCKER+%2B+VUE%2FREACT;PRESS+START+TO+EXPLORE+MY+UNIVERSE..." alt="8-Bit Typing Slogan" />
   </a>
 </p>
 
@@ -88,7 +88,7 @@
 ```markdown
 ► [MAIN WEAPON]   :: Modern Frontend Spells (Vue 3, React, Tailwind CSS, Vite)
 ► [SHIELD/ARMOR]  :: Resilient Backend APIs (Node.js/Express, Laravel)
-► [BASE/FORTRESS] :: Self-Hosted Physical STB Infrastructure (Docker, Nginx, Linux)
+► [BASE/FORTRESS] :: Self-Hosted & Cloud Infrastructure (Docker, Nginx, Linux)
 ► [ULTIMATE CAST] :: Autonomous AI Agents, Multi-Profile Automations & Bot Engines
 ```
 
