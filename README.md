@@ -50,7 +50,6 @@
 ║  LEVEL        : 99                                            ║
 ║  HP (VITALITY): [████████████████████] 9999 / 9999            ║
 ║  MP (ENERGY)  : [████████████════════] 100% Coffee Overdrive  ║
-║  REALM (HOST) : STB Linux Physical Server Cluster             ║
 ║  STATUS       : Ready For Co-Op Missions & Engineering Raids  ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
