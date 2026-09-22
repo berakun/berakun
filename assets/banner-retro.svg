@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="100%" height="160">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+      .title {
+        font-family: 'Press Start 2P', monospace, sans-serif;
+        font-size: 26px;
+        fill: #00FFCC;
+        text-anchor: middle;
+        dominant-baseline: middle;
+        font-weight: bold;
+        letter-spacing: 2px;
+      }
+      .subtitle {
+        font-family: 'Press Start 2P', monospace, sans-serif;
+        font-size: 13px;
+        fill: #FF007F;
+        text-anchor: middle;
+        dominant-baseline: middle;
+        letter-spacing: 1px;
+      }
+      .frame {
+        fill: #0d1117;
+        stroke: #00FFCC;
+        stroke-width: 4;
+        rx: 12;
+      }
+      .inner-border {
+        fill: none;
+        stroke: #1f293d;
+        stroke-width: 2;
+        stroke-dasharray: 6,6;
+        rx: 8;
+      }
+    </style>
+  </defs>
+  
+  <!-- Outer Card Frame -->
+  <rect x="10" y="10" width="880" height="140" class="frame" />
+  <rect x="18" y="18" width="864" height="124" class="inner-border" />
+
+  <!-- Corner 8-Bit Pixel Blocks -->
+  <rect x="14" y="14" width="8" height="8" fill="#00FFCC" />
+  <rect x="878" y="14" width="8" height="8" fill="#00FFCC" />
+  <rect x="14" y="138" width="8" height="8" fill="#00FFCC" />
+  <rect x="878" y="138" width="8" height="8" fill="#00FFCC" />
+
+  <!-- Title & Subtitle -->
+  <text x="450" y="65" class="title">🕹️ PLAYER 1: RIFKI FIRDAUS 🕹️</text>
+  <text x="450" y="105" class="subtitle">★ LVL 99 SYSTEM ARCHITECT &amp; FULL-STACK SORCERER ★</text>
+</svg>

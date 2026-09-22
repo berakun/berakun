@@ -1,6 +1,6 @@
-<!-- Retro 8-Bit Pixel Header -->
+<!-- Retro 8-Bit Pixel Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=700&size=26&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=70&lines=%E2%96%B6+PLAYER+1%3A+RIFKI+FIRDAUS+%E2%97%80;%E2%9A%94%EF%B8%8F+LVL+99+SYSTEM+ARCHITECT;%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+FULL-STACK+SORCERER" alt="8-Bit Header" />
+  <img src="assets/banner-retro.svg" width="100%" alt="Player 1: Rifki Firdaus"/>
 </p>
 
 <!-- 8-Bit Quest Slogan -->
