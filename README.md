@@ -71,7 +71,7 @@
 
 <!-- Tech Grid -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,tailwind,nodejs,express,laravel,python,docker,nginx,mysql,linux,git,vite,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=vue,react,tailwind,nodejs,express,laravel,docker,nginx,mysql,linux,git,vite,postman&perline=7" />
 </p>
 
 <br/>
@@ -87,7 +87,7 @@
 
 ```markdown
 ► [MAIN WEAPON]   :: Modern Frontend Spells (Vue 3, React, Tailwind CSS, Vite)
-► [SHIELD/ARMOR]  :: Resilient Backend APIs (Node.js/Express, Laravel, Python)
+► [SHIELD/ARMOR]  :: Resilient Backend APIs (Node.js/Express, Laravel)
 ► [BASE/FORTRESS] :: Self-Hosted Physical STB Infrastructure (Docker, Nginx, Linux)
 ► [ULTIMATE CAST] :: Autonomous AI Agents, Multi-Profile Automations & Bot Engines
 ```
